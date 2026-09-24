@@ -1,0 +1,2025 @@
+__TEXT
+__text
+__TEXT
+__stubs
+__TEXT
+__stub_helper
+__TEXT
+__literal8
+__TEXT
+__literal4
+__TEXT
+__cstring
+__TEXT
+__const
+__TEXT
+__literal16
+__TEXT
+__unwind_info
+__TEXT
+__eh_frame
+__TEXT
+__DATA_CONST
+__got
+__DATA_CONST
+__const
+__DATA_CONST
+__cfstring
+__DATA_CONST
+__objc_protolist__DATA_CONST
+__objc_classlist__DATA_CONST
+__mod_init_func
+__DATA_CONST
+__objc_imageinfo__DATA_CONST
+__DATA
+__la_symbol_ptr
+__DATA
+__data
+__DATA
+__objc_selrefs
+__DATA
+__objc_classrefs__DATA
+__objc_const
+__DATA
+__objc_data
+__DATA
+__objc_superrefs__DATA
+__objc_ivar
+__DATA
+__bss
+__DATA
+__common
+__DATA
+__LINKEDIT
+/var/jb/Library/Frameworks
+/var/jb/usr/lib
+@loader_path/.jbroot/Library/Frameworks
+@loader_path/.jbroot/usr/lib
+@rpath/VCamRecovered.dylib
+LLDWUU1D
+/usr/lib/libobjc.A.dylib
+/System/Library/Frameworks/Foundation.framework/Foundation
+/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+/System/Library/Frameworks/UIKit.framework/UIKit
+/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+/System/Library/Frameworks/VideoToolbox.framework/VideoToolbox
+/System/Library/Frameworks/Security.framework/Security
+/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+@rpath/CydiaSubstrate.framework/CydiaSubstrate
+/usr/lib/libMobileGestalt.dylib
+/usr/lib/libc++.1.dylib
+/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+/usr/lib/libSystem.B.dylib
+i#TX
+v"TX
+TB"R
+ZM\ 
+	km	
+	k 	
+ixQX)
+IgQX)
+,QX)
+h)QX
+(QX	
+HOSX
+HNSX
+h"SX
+@zRXq[
+"RXh
+|+SX
+1"@9?
+)yOX)
+iBOX)
+h?OX
+a/RX
+h}NX
+	~NX
+(}NX
+h{NX
+ThTN
+hbQX
+H]QX
+MX60QX
+T@	k
+A\G\
+I[KX)
+	k@	
+7KX)
+H6NX
+I,NX
+iGJX)
+HDJX
+T!(J
+cMX(
+W\MX
+h-LX
+(-LX
+rI	J
+`ZIX
+H>JX
+xFX)
+oFX)
+`FX)
+HzIX
+09(N
+	kL8
+	kmo
+	kL8
+	kM@
+	kmF
+	k-'
+	k-^
+	k-*
+	k-4
+	k Z
+	kM=
+09I@
+	kmF
+	km:
+	kLG
+	k`?
+	k =
+	k`;
+	k@;
+	kLE
+	k,D
+	k`+
+	klD
+	kLD
+	kLC
+	klC
+(HHX
+7HX	
+	k`}
+	k`_
+	k`f
+ dFX
+h}GX
+(}GX
+H{GX
+hwGX
+ .FX
+HdGX
+ cGX"
+HqFXh
+	ki'
+`UEX
+`:EX
+ n>\
+!n>\
+*n>\
+@m>\
+Am>\
+ l>\
+#	@m
+T`@`
+"V>\
+DXvx
+!ADX
+h	DX
+H	DX
+I"EX
+Ik(8
+@0CX
+ ,CX
+!d<\h
+@b<\
+Cb<\
+)ABX
+I,BX
+(3BX
+H?BX
+T`@`
+	kMJ
+	kmG
+	k,n
+	khT
+	kMC
+	k`}
+	klk
+	km 
+	kMJ
+	k,e
+	k-J
+	k@q
+	k`c
+	kHI
+	k`W
+	k@X
+	k U
+	k@S
+	k@R
+	k J
+	k M
+	k@;
+	k@2
+	k`3
+	k!2
+h,?X
+)AX9
+A-AX
+r@A`
+`:AX(!`
+u:\@
+An@X
+	0>X)
+H,>X
+6k@X
+;c@X
+r4j@X
+iR@X
+hR@X
+IR@X
+HR@X
+iO@X
+hO@X
+(B@X
+(N@X
+hM@X
+(M@X
+hH@X
+HG@X
+v@X+
+[@X!
+`T@X
+ h9\
+!h9\
+g9\A
+b`9\
+cb9\
+f8\0
+cU8\
+;8\	
+	k@$
+4<X)
+7y>X
+xk>X
+hf>X
+(f>X
+hw>X
+hS>X
+T"E<
+^>Xz
+ R7\
+!R7\
+"R7\
+`K7\
+bI7\
+A:7\
+il;X)
+	*7\
+*7\h@
+!u=X"
+5n=X
+an=X
+Uc=X
+:[=X
+H^=X
+([=X
+hX=X
+(H=X
+(W=X
+hP=X
+(P=X
+hO=X
+HO=X
+HN=X
+H,=X
+hI=X
+@&6\
+A&6\
+B&6\
+H_=X
+59<X
+(=<X
+(-<X
+H6<X
+	km,
+	k-+
+	k-*
+	k-m
+	k,@
+	kl&
+	k,@
+	k,@
+	kl=
+`y5\
+ay5\
+bx5\
+#y5\
+	k,;
+	kl8
+	kMq
+	k,7
+	kmm
+	kMm
+	kMe
+	kM5
+	kMb
+ @5\
+#@5\
+	km_
+	k-[
+	k-Z
+	k y
+	k [
+	k X
+	k D
+	k @
+	k@>
+:XVL
+iD8X)
+HA8X
+3\[F
+9%:X
+<%:X
+(%:X
+C7X)
+57X)
+h37X
+I)7X)
+a{9XB
+2m,@`
+)c9X
+(c9X
+rLQ7
+iL9X
+h)9X
+I'9X
+(:9X
+ri69X
+)>m	!?m
+`d9Xx
+_9XM
+)>m	!?m
+@u8X
+r8X	
+88X"
+h:8X
+ !8X^
+LO1\
+CO1\
+:5X)
+h75X
+|7X"
+)'5X)
+Tz7X	
+AP7X
+r(G7X
+)97X
+7XZF
+ S0\
+i|4X)
+hy4X
+K0\\"
+	o4X)
+iG4X)
+hD4X
+	;4X)
+/4X)
+a|6X(
+aU6X
+h,4X	
+Ig6X
+Hg6X
+)c6X
+he6X
+H(4X
+)Z6X
+hZ6X
+	c6X
+Hy6X
+IU6X
+)M6X
+(a6X
+rI]6X
+6X@|
+(%6X
+H&6X
+h66X
+@O6X
+@w/\AA`
+`-5X
+4Xzp
+Bz.\
+af.\
+ix2X)
+ I.\
+Hk2X
+	d2X)
+I^2X)
+Y2Xh
+P2X)
+hN2X
+IC2X)
+h@2X
+4X<n
+uj4X
+ap4X
+a{4X
+ad4X
+aw4X
+(92X
+Ua4X
+Wy4X
+s4XB
+Zv4X
+;I4X
+-\!A`
+#i4X
+(l4X
+)^4X
+I*4X
+H_4X
+(_4X
+H`4X
+3XwbB
+Ix1X)
+(u1X
+hV-\t
+(q1Xh
+)e1X)
+Hb1X
+)1X)
+	i3X
+Hy3X
+ +1XHS3X
+)1XkY3X
+TM3X
+(K3X
+hn3X
+3XPd
+@l3X
+h%3X
+H"3X
+h!3X
+`z,\
+g,\(\
+)&0X)
+h#0X
+r.e0
+	k-	
+	k@	
+	k(0
+(}/X
+{/X(
+p/X)
+`S+\
+b/X)
+	km{
+	kMh
+	k`M
+	kMP
+	k@Q
+	k Q
+	k,w
+	klG
+	kLv
+1XcU
+	kL 
+	k,"
+	k,*
+	kLj
+	kL>
+	kL]
+	kl]
+	kLc
+	k,a
+	k s
+Av*\
+ip*\
+@9i$/
+h*\!A`
+	k@Q
+	k R
+	k)b
+0XNM
+b	*\
+)\!A`
+(*0X
+h30X
+(30X
+	'0X
+`.0X
+@*0X
+"y)\
+!T)\
+"S)\
+"?)\
+B9)\
+/X4E
+Hc/X
+6c/Xo'
+,XQB
+h5/X
+h//X
+(//X
+(-/X
+($/X
+BZ(\
+.X&?
+"P(\
+#P(\
+MI(\
+NI(\
+"E(\
+-4(\
+ 3(\
+!1(\
+(\!A`
+M.X"
+!5'\
+,'\!A`
+c''\
+t-X"
+c{&\
+bl&\
+cl&\
+`;&\
+";&\
+6*X)
+h3*X
+(v,X
+	kM!
+	kmW
+	kmP
+	k@\
+	kl)
+	k,%
+	k`?
+	k@5
+	k`2
+@R,X
+%\\%
+rj8*
+H)Xj
+ <%\('
+H:)X
+ .%\
+hh+X
+H(+X
+Y(+X
+ R*X
+	y'X)
+j'X)
+<j'X
+i_'X)
+P'X)
+HN'X
+hq8?
+Tbj58
+rY**
+(}&X
+	q&X)
+o&Xk
+	i&X)
+Z&X)
+X&Xk
+O&X)
+D&X)
+kB&Xk
+9&X)
+-&X)
+$&X)
+h#&X
+rT	&
+h0(X
+IC(X
+HC(X
+h>(X
+HA(X
+(@(X
+h9(X
+`%)X
+`5(X
+@$(X
+@!(X
+"(X"e&
+H|%X
+Is%X)
+Tb\%
+HT'X
+E'Xb
+ic&X
+IW&X
+hL&X
+@@&X+
+Z5&XH6
+Uh%X
+Hf%X
+Hd%X
+r,I#
+"x%X
+bC%X@
+()%X
+	k,.
+	kmM
+	kM5
+	kmp
+	k-B
+	km=
+	k-^
+	kM\
+	k,6
+	kl/
+	kL.
+	klD
+	k,C
+	k`{
+	kLE
+	k n
+	k`l
+	klD
+	k@k
+	k@U
+	k@T
+	k@R
+	k`O
+	k`M
+`]#X
+ Z#X
+TJ& 
+H2"X
+hK X
+`; X
+	k,/
+	k@:
+	kL#
+	k)#
+	kld
+	km]
+	klb
+	k(O
+	k, 
+	kL.
+	kl&
+	kL%
+	kL$
+	kL#
+	k @
+	kl"
+	kL!
+	k`5
+	k`$
+	k`(
+	km 
+	kM]
+	kLd
+	k i
+	k c
+	k,2
+	k@a
+	kl+
+	k@U
+	k,)
+	kl"
+	k@U
+	kl!
+	k =
+	k ;
+	k`8
+	k 1
+	k 6
+	k`,
+	k@*
+	kIT
+	km.
+	kLJ
+	km4
+	k,H
+	kM 
+	kLD
+	klC
+	k-<
+	k-:
+	k-;
+	kmu
+	kmo
+	k-o
+	kmm
+	kMk
+	k@[
+	k`I
+	k T
+	k`F
+	k <
+	k@9
+	kHl
+	k`4
+	k`.
+3l)_
+	km<
+	k 7
+	kM#
+	k,#
+	kM0
+	k .
+	km-
+	kl'
+	kLL
+	k %
+	k %
+	k,K
+	k`!
+	k-'
+	k,'
+	k-#
+	k,8
+	k,7
+	k,6
+	kl4
+	km6
+	km4
+	kM/
+	kM`
+	k-\
+	k`?
+	kMV
+	k`;
+	k@8
+	k@)
+	kmI
+	k` 
+	k-E
+	kMC
+	k-?
+	km;
+	km5
+	kM4
+	km2
+	k-2
+	kMr
+	kMq
+	k@G
+	k :
+	k 8
+	kMf
+	kMb
+	kMa
+	k`,
+	k@"
+	k-Y
+	k-X
+	k-W
+	k-S
+	kmQ
+	k-N
+	kM]
+	k@O
+	klF
+	klE
+	k,D
+	klC
+	klD
+	kLC
+	k`:
+	k,B
+	k,B
+	k 4
+	kl;
+	kl:
+	k`!
+	k z
+	k@x
+	k@w
+	k@l
+	k@q
+(ih8
+	k`@
+	k-*
+	k!D
+	kL)
+	k`;
+	kIC
+	k 6
+	k@ 
+	kI4
+)}	X)
+(z	X
+T?i88
+?i88
+ij8J
+;i58j
+A	XJ
+).	X)
+h+	X
+)ih8
++t)_
+	k@$
+(kh8
++h)_
+(W	X
+HZ	X
+l@ffffff
+ e@)\
+ e@=
+o@)\
+a@333333
+a@333333
+ c@333333
+ t@\
+`w@\
+@r@\
+>A33
+?192.168.0.102
+BE:BA:18:57:6C:7A:73:EF:DA:C9:D7:82:CD:56:B0:07:5F:10:2A:12:87:F2:66:48:D9:5E:6A:BF:2D:D5:CF:BC
+83:62:4F:D3:38:C8:D9:B0:23:C1:8A:67:CB:7A:9C:05:19:DA:43:D1:17:75:B4:C6:CB:DA:D4:5C:3D:99:7C:52
+96:BC:EC:06:26:49:76:F3:74:60:77:9A:CF:28:C5:A7:CF:E8:A3:C0:AA:E1:1A:8F:FC:EE:05:C0:BD:DF:08:C6
+v8@?0
+com.vcam.mediaProcess
+MinimumBufferCount
+vcam_patched
+X-Resolution: 
+%dx%d
+/var/jb/var/mobile/Library/Preferences/com.if-she.cydia.vcam.plist
+GET /vcam.mjpg HTTP/1.1
+Host: %s
+Authorization: Bearer %s
+LIVE VIRTUAL CAMERA PLATFORM
+Client Login
+VCam
+Sign in to connect your OBS camera stream.
+Control Wi-Fi or USB OBS streaming from one panel.
+Username or email
+Password
+Login
+Create Account
+Forgot username/password?
+Account
+Client
+Stream
+Active
+Paused
+Mode
+Wi-Fi
+enabled
+127.0.0.1
+OBS Server IP
+wifi_ip
+Stop OBS Stream
+Start OBS Stream
+Wallet / Deposit / Plans
+Save
+Logout
+Stop
+Start
+%@ USB Stream
+%@ OBS Stream
+USB tip: turn USB Tunnel ON in OBS.py, plug in your iPhone, then start the stream.
+Tip: OBS server and iPhone must be on the same Wi-Fi network.
+Selected plan
+Plan Active
+Your subscription is active. Sign in again to open the main streaming controls.
+Purchase Failed
+Try again.
+v28@?0B8@"NSString"12@"NSString"20
+VCAM ACCOUNT
+Create your account, add funds, and choose a plan before streaming opens.
+Username
+Email
+Password (8+ characters)
+By continuing you agree to lawful OBS, streaming, QA, and camera testing use only. Fraud, impersonation, identity-check misuse, and financial-platform abuse are prohibited.
+Agree & Create
+Cancel
+Check Details
+Username, valid email, and 8+ character password are required.
+Create Failed
+v20@?0B8@"NSString"12
+ACCOUNT HELP
+Recover Access
+Choose what you need. Recovery stays inside VCam.
+Forgot Username
+Reset Password
+USERNAME RECOVERY
+Find Username
+Enter your account email and password.
+Recover
+Valid email and password are required.
+Username Found
+Your username is: %@
+Recovery Failed
+PASSWORD RESET
+New Password
+Verify your username and email, then set a new password.
+New password (8+ characters)
+Update
+Password Updated
+Reset Failed
+You can now sign in with the new password.
+Deposit
+Enter a valid amount.
+Invoice Created
+Complete the payment page, then return to Account Center and choose a plan.
+Deposit Failed
+Could not load account.
+balance
+active_subscription
+plan
+No active plan
+Add funds, buy a plan, then sign in again for streaming.
+Streaming access is ready
+Setup required before streaming
+Ready to Stream
+Finish Setup
+Balance
+$%.2f
+Plan
+Next
+Manage
+Buy Plan
+v24@?0@"NSDictionary"8@"NSString"16
+WALLET TOP UP
+Create Invoice
+Choose a quick amount or enter a custom USD/USDT value.
+Custom amount
+Create Custom Invoice
+Plans
+No plans available right now.
+SUBSCRIPTION
+Choose Plan
+Purchases use wallet balance. After activation, sign in again for streaming.
+price
+duration
+%@ - $%.2f %@
+Wallet purchase
+v24@?0@"NSArray"8@"NSString"16
+CONFIRM PLAN
+Activate Subscription
+Selected
+This uses your wallet balance. When activation completes, sign in again to open streaming controls.
+Activate
+Enter your username/email and password to continue.
+Checking secure access...
+Plan active. Opening streaming controls...
+com.vcam.updateSettings
+subscription
+license
+Account verified. Opening Account Center...
+Account sign-in failed.
+Login failed. Check your credentials.
+/var/jb/var/mobile/Library/Preferences/logo.png
+Please sign in first.
+Invalid server URL.
+application/json
+Accept
+Bearer 
+Authorization
+Could not prepare request.
+Content-Type
+Network error.
+error
+v32@?0@"NSData"8@"NSURLResponse"16@"NSError"24
+username
+password
+/api/login
+POST
+token
+logged_in
+auth_token
+v32@?0@8q16@"NSString"24
+email
+terms_accepted
+terms_version
+2026-05-06
+/api/register
+Account creation failed.
+/api/forgot_username
+Could not recover username.
+/api/request_reset
+reset_token
+Could not verify account.
+new_password
+/api/reset_password
+Password reset failed.
+/api/profile
+/api/plans
+Could not load plans.
+amount
+/api/deposit
+payment_url
+Could not create deposit invoice.
+/api/purchase
+Active until 
+Subscription active.
+Purchase failed.
+udid
+model
+fingerprint
+version
+3.1.6
+tweak_variant
+nonce_response
+heartbeat
+status
+killed
+Account Disabled
+Your account has been deactivated. Contact support.
+expired
+refreshed_token
+nonce
+Server URL unavailable.
+login
+Unknown error
+mediaserverd
+com.apple.mediaserverd
+com.apple.springboard
+UIWindow
+com.vcam.updateSettings
+v16@?0@"NSTimer"8
+enc_token
+https://
+https://vcampro.online
+%@|%@
+device_udid
+hw.machine
+%02x
+%lld
+X-Timestamp
+X-VCam-Version
+X-Body-SHA256
+X-Signature
+%@|%@|%@|%@|%@
+stringByReplacingOccurrencesOfString:withString:
+length
+dataWithCapacity:
+characterAtIndex:
+appendBytes:length:
+dataFromHexString:
+bytes
+dataWithBytes:length:
+isEqualToData:
+protectionSpace
+authenticationMethod
+isEqualToString:
+serverTrust
+isCertificateTrusted:
+credentialForTrust:
+initialize
+isEqual:
+class
+self
+performSelector:
+performSelector:withObject:
+performSelector:withObject:withObject:
+isProxy
+isKindOfClass:
+isMemberOfClass:
+conformsToProtocol:
+respondsToSelector:
+retain
+release
+autorelease
+retainCount
+zone
+hash
+superclass
+description
+debugDescription
+hash
+TQ,R
+superclass
+T#,R
+description
+T@"NSString",R,C
+debugDescription
+URLSession:didBecomeInvalidWithError:
+URLSession:didReceiveChallenge:completionHandler:
+URLSessionDidFinishEventsForBackgroundURLSession:
+init
+sharedInstance
+clearQueue
+isLive
+setIsLive:
+_isLive
+isLive
+TB,N,V_isLive
+numberWithInt:
+dictionaryWithObjects:forKeys:count:
+numberWithUnsignedLong:
+numberWithUnsignedInt:
+numberWithBool:
+invalidate
+sendHeartbeat
+scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:
+dictionaryWithContentsOfFile:
+objectForKeyedSubscript:
+UTF8String
+hitTest:withEvent:
+rootViewController
+view
+setStartPoint:
+setEndPoint:
+arrayWithObjects:count:
+setGradientColors:
+array
+countByEnumeratingWithState:objects:count:
+CGColor
+addObject:
+layer
+setColors:
+startPoint
+endPoint
+layerClass
+gradientColors
+.cxx_destruct
+_gradientColors
+_startPoint
+_endPoint
+gradientColors
+T@"NSArray",&,N,V_gradientColors
+startPoint
+T{CGPoint=dd},N,V_startPoint
+endPoint
+T{CGPoint=dd},N,V_endPoint
+setModalPresentationStyle:
+setModalTransitionStyle:
+viewDidLoad
+setBackgroundColor:
+defaultCenter
+vcamKeyboardWillShow:
+addObserver:selector:name:object:
+vcamKeyboardWillHide:
+setTranslatesAutoresizingMaskIntoConstraints:
+closePanel
+addTarget:action:forControlEvents:
+addSubview:
+leadingAnchor
+constraintEqualToAnchor:
+trailingAnchor
+topAnchor
+bottomAnchor
+activateConstraints:
+setCard:
+card
+setShadowColor:
+setShadowOpacity:
+setShadowRadius:
+setShadowOffset:
+setCornerRadius:
+setMasksToBounds:
+setAxis:
+setSpacing:
+setAlignment:
+buttonWithType:
+setTitle:forState:
+systemFontOfSize:weight:
+titleLabel
+setFont:
+setTitleColor:forState:
+centerXAnchor
+centerYAnchor
+constraintGreaterThanOrEqualToAnchor:constant:
+constraintLessThanOrEqualToAnchor:constant:
+widthAnchor
+constraintLessThanOrEqualToConstant:
+constraintEqualToAnchor:constant:
+heightAnchor
+constraintEqualToConstant:
+headerView
+addArrangedSubview:
+loginMode
+buildLoginInStack:
+buildDashboardInStack:
+viewDidDisappear:
+removeObserver:name:object:
+userInfo
+CGRectValue
+convertRect:fromView:
+layoutIfNeeded
+bounds
+convertRect:toView:
+doubleValue
+setTransform:
+animateWithDuration:animations:
+setText:
+setTextAlignment:
+whiteColor
+setTextColor:
+label:size:weight:color:
+setNumberOfLines:
+initWithArrangedSubviews:
+constraintGreaterThanOrEqualToConstant:
+setDelegate:
+setSecureTextEntry:
+setKeyboardType:
+setAutocorrectionType:
+setAutocapitalizationType:
+setTintColor:
+setBorderWidth:
+setBorderColor:
+initWithFrame:
+setLeftView:
+setLeftViewMode:
+setRightView:
+setRightViewMode:
+initWithString:attributes:
+setAttributedPlaceholder:
+setActive:
+field:secure:keyboard:
+setUsernameField:
+setPasswordField:
+usernameField
+passwordField
+setMessageLabel:
+messageLabel
+setHidden:
+pillButton:primary:destructive:
+setPrimaryButton:
+primaryButton
+loginTapped
+createAccountTapped
+recoveryTapped
+setDistribution:
+statusCard:value:accent:
+uppercaseString
+setAdjustsFontSizeToFitWidth:
+setMinimumScaleFactor:
+boolValue
+setUsbMode:
+usbMode
+statusRowWithUser:enabled:usb:
+setWifiButton:
+setUsbButton:
+wifiButton
+selectWifiMode
+usbButton
+selectUSBMode
+setSourceLabel:
+sourceLabel
+setIpField:
+ipField
+toggleStreamTapped
+walletTapped
+saveIPTapped
+logoutTapped
+setHintLabel:
+hintLabel
+refreshModeUI
+stringWithFormat:
+setEnabled:
+setAlpha:
+spinner
+initWithActivityIndicatorStyle:
+setSpinner:
+startAnimating
+stopAnimating
+alertControllerWithTitle:message:preferredStyle:
+actionWithTitle:style:handler:
+addAction:
+presentViewController:animated:completion:
+URLWithString:
+sharedApplication
+openURL:options:completionHandler:
+openURL:
+colorWithRed:green:blue:alpha:
+vcamSheetColorR:g:b:a:
+vcamSheetLabel:frame:size:weight:color:lines:
+setFrame:
+presentedViewController
+dismissViewControllerAnimated:completion:
+clearColor
+mainScreen
+colorWithWhite:alpha:
+setAutoresizingMask:
+setCenter:
+vcamClosePresentedSheet:
+depositTapped
+buyPlanTapped
+vcamCreateDepositInvoice:
+accessibilityIdentifier
+accessibilityLabel
+confirmPurchasePlan:title:
+vcamConfirmPlanButtonTapped:
+vcamShowAlertTitle:message:
+purchasePlan:completion:
+setClearButtonMode:
+vcamSheetField:frame:secure:keyboard:
+vcamSheetButton:frame:primary:
+vcamCreateSubmitTapped:
+vcamPresentSheetWrap:
+count
+objectAtIndexedSubscript:
+text
+whitespaceAndNewlineCharacterSet
+stringByTrimmingCharactersInSet:
+rangeOfString:
+showAccountReadyPrompt
+createAccountWithUsername:email:password:completion:
+vcamOpenForgotUsernamePanel:
+vcamOpenResetPasswordPanel:
+forgotUsernameTapped
+resetPasswordTapped
+vcamForgotUsernameSubmitTapped:
+forgotUsernameWithEmail:password:completion:
+vcamResetPasswordSubmitTapped:
+resetPasswordForUsername:email:newPassword:completion:
+numberWithDouble:
+vcamOpenURLString:
+depositAmount:completion:
+prettyPlanName:
+vcamSheetCard:title:value:accent:
+vcamAccountDepositTapped:
+vcamAccountBuyTapped:
+fetchProfileWithCompletion:
+integerValue
+setTag:
+vcamQuickDepositTapped:
+setPlaceholder:
+vcamCustomDepositTapped:
+setShowsVerticalScrollIndicator:
+setAccessibilityIdentifier:
+setAccessibilityLabel:
+vcamPlanButtonTapped:
+setUserInteractionEnabled:
+setContentSize:
+fetchPlansWithCompletion:
+showMessage:error:
+endEditing:
+setBusy:
+shared
+updateColor
+lowercaseString
+portalLoginWithUsername:password:completion:
+loginWithUsername:password:completion:
+dictionary
+setObject:forKeyedSubscript:
+writeToFile:atomically:
+saveStateWithEnabled:close:
+becomeFirstResponder
+resignFirstResponder
+textFieldShouldBeginEditing:
+textFieldDidBeginEditing:
+textFieldShouldEndEditing:
+textFieldDidEndEditing:
+textFieldDidEndEditing:reason:
+textField:shouldChangeCharactersInRange:replacementString:
+textFieldDidChangeSelection:
+textFieldShouldClear:
+textFieldShouldReturn:
+initWithLoginMode:
+setLoginMode:
+_loginMode
+_usbMode
+_card
+_usernameField
+_passwordField
+_ipField
+_sourceLabel
+_hintLabel
+_messageLabel
+_primaryButton
+_wifiButton
+_usbButton
+_spinner
+loginMode
+TB,N,V_loginMode
+usbMode
+TB,N,V_usbMode
+card
+T@"UIView",&,N,V_card
+usernameField
+T@"UITextField",&,N,V_usernameField
+passwordField
+T@"UITextField",&,N,V_passwordField
+ipField
+T@"UITextField",&,N,V_ipField
+sourceLabel
+T@"UILabel",&,N,V_sourceLabel
+hintLabel
+T@"UILabel",&,N,V_hintLabel
+messageLabel
+T@"UILabel",&,N,V_messageLabel
+primaryButton
+T@"UIButton",&,N,V_primaryButton
+wifiButton
+T@"UIButton",&,N,V_wifiButton
+usbButton
+T@"UIButton",&,N,V_usbButton
+spinner
+T@"UIActivityIndicatorView",&,N,V_spinner
+imageWithContentsOfFile:
+setImage:forState:
+imageView
+setContentMode:
+showMenu
+pan:
+initWithTarget:action:
+addGestureRecognizer:
+superview
+translationInView:
+center
+setTranslation:inView:
+showLogin
+requestWithURL:
+setHTTPMethod:
+setTimeoutInterval:
+setValue:forHTTPHeaderField:
+stringByAppendingString:
+dataWithJSONObject:options:error:
+setHTTPBody:
+localizedDescription
+statusCode
+JSONObjectWithData:options:error:
+dataTaskWithRequest:completionHandler:
+resume
+removeObjectForKey:
+jsonRequestPath:method:auth:payload:completion:
+capitalizedString
+dictionaryWithDictionary:
+date
+timeIntervalSince1970
+keyWindow
+processInfo
+processName
+mainBundle
+bundleIdentifier
+makeKeyAndVisible
+scheduledTimerWithTimeInterval:repeats:block:
+performSelector:withObject:afterDelay:
+windows
+isKeyWindow
+hasPrefix:
+stringWithUTF8String:
+ephemeralSessionConfiguration
+setTimeoutIntervalForRequest:
+sessionWithConfiguration:delegate:delegateQueue:
+dataUsingEncoding:
+dataWithLength:
+mutableBytes
+setLength:
+dataWithData:
+appendData:
+base64EncodedStringWithOptions:
+UUID
+UUIDString
+mutableCopy
+stringWithCapacity:
+appendFormat:
+cStringUsingEncoding:
+componentsWithString:
+scheme
+host
+data
+initWithBase64EncodedString:options:
+subdataWithRange:
+initWithData:encoding:
+setWindowLevel:
+connectedScenes
+activationState
+setWindowScene:
+setRootViewController:
+PinnedURLSessionDelegate
+NSURLSessionDelegate
+NSObject
+VCamManager
+VCamOverlayWindow
+VCamGradientView
+VCamPanelController
+UITextFieldDelegate
+VCamButton
+@24@0:8@16
+v16@0:8
+B24@0:8@16
+#16@0:8
+@16@0:8
+@24@0:8:16
+@32@0:8:16@24
+@40@0:8:16@24@32
+B16@0:8
+B24@0:8#16
+B24@0:8:16
+Vv16@0:8
+Q16@0:8
+^{_NSZone=}16@0:8
+B24@0:8@"Protocol"16
+@"NSString"16@0:8
+v32@0:8@16@24
+v40@0:8@16@24@?32
+v24@0:8@16
+v32@0:8@"NSURLSession"16@"NSError"24
+v40@0:8@"NSURLSession"16@"NSURLAuthenticationChallenge"24@?<v@?q@"NSURLCredential">32
+v24@0:8@"NSURLSession"16
+B24@0:8^{__SecCertificate=}16
+v20@0:8B16
+@40@0:8{CGPoint=dd}16@32
+v32@0:8{CGPoint=dd}16
+{CGPoint=dd}16@0:8
+@"NSArray"
+{CGPoint="x"d"y"d}
+v32@0:8@16q24
+B48@0:8@16{_NSRange=QQ}24@40
+B24@0:8@"UITextField"16
+v24@0:8@"UITextField"16
+v32@0:8@"UITextField"16q24
+B48@0:8@"UITextField"16{_NSRange=QQ}24@"NSString"40
+@20@0:8B16
+@48@0:8@16d24d32@40
+@36@0:8@16B24q28
+@32@0:8@16B24B28
+@40@0:8@16@24@32
+v28@0:8@16B24
+@48@0:8d16d24d32d40
+@88@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24d56d64@72q80
+@72@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16@48@56@64
+@60@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24B56
+@68@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24B56q60
+v24@0:8d16
+v24@0:8B16B20
+@"UIView"
+@"UITextField"
+@"UILabel"
+@"UIButton"
+@"UIActivityIndicatorView"
+v52@0:8@16@24B32@36@?44
+v48@0:8@16@24@32@?40
+v24@0:8@?16
+v32@0:8@16@?24
+2..*)`uu,9;7*(5t54634?
+w2..*)`uu,9;7*(5t54634?u;*3u2?;(.8?;.2..*)`uu,9;7*(5t54634?u;*3u65=34
+>?,39?
+z		P|	
+SCRBRBRBRBRBSCSCSCSCSCSCSCSCSCSCSCSCSCRBSCSCSCSCSCp
+RBRBSCRBRBp
+RBRBRBRBRBRBRBRBRB
+VARARARARARARARARARARARARARARARARARARARBRB`
+RARARASAp SDVAXCSBp
+SCRE\ASBRCRA
+Bp0SCRESCRE`
+ASASASBVBSA
+ARARARARARARARARARAYAp 
+ASASASASASASASASASASASASASB`"BUAp
+`'CRE\CRHRCRCp RCRCp RCp RC
+@___stack_chk_guard
+@__NSConcreteGlobalBlock
+@_NSURLAuthenticationMethodServerTrust
+@_kCFAllocatorDefault
+@_kVTRotation_CW90
+@_kVTPixelRotationPropertyKey_Rotation
+@_kCFTypeDictionaryValueCallBacks
+@_kCFTypeDictionaryKeyCallBacks
+@_kCVPixelBufferOpenGLESCompatibilityKey
+@_kCVPixelBufferPixelFormatTypeKey
+@_kCFBooleanTrue
+@_kCFAllocatorNull
+@_kCVPixelBufferWidthKey
+@___NSDictionary0__
+@_kCVPixelBufferIOSurfacePropertiesKey
+@_kCVPixelBufferHeightKey
+@_kCVImageBufferColorPrimariesKey
+@_kCVImageBufferYCbCrMatrixKey
+@_kCVImageBufferTransferFunctionKey
+@__dispatch_main_q
+@_UIKeyboardWillHideNotification
+@_UIKeyboardWillShowNotification
+@_UIFontWeightSemibold
+@__NSConcreteStackBlock
+@_UIKeyboardFrameEndUserInfoKey
+@_UIKeyboardAnimationDurationUserInfoKey
+@_CGAffineTransformIdentity
+@_UIFontWeightBlack
+@_NSForegroundColorAttributeName
+@_UIFontWeightBold
+@_CGPointZero
+@___NSArray0__
+@_CMSampleBufferGetImageBuffer
+@_mach_task_self_
+@dyld_stub_binder
+@___CFConstantStringClassReference
+@_OBJC_CLASS_$_NSMutableData
+@_OBJC_CLASS_$_NSData
+@_OBJC_CLASS_$_NSURLCredential
+@_OBJC_CLASS_$_NSNumber
+@_OBJC_CLASS_$_NSDictionary
+@_OBJC_CLASS_$_NSTimer
+@_OBJC_CLASS_$_CAGradientLayer
+@_OBJC_CLASS_$_NSArray
+@_OBJC_CLASS_$_NSMutableArray
+@_OBJC_CLASS_$_NSNotificationCenter
+@_OBJC_CLASS_$_UIControl
+@_OBJC_CLASS_$_NSLayoutConstraint
+@_OBJC_CLASS_$_UIView
+@_OBJC_CLASS_$_UIStackView
+@_OBJC_CLASS_$_UIButton
+@_OBJC_CLASS_$_UIFont
+@_OBJC_CLASS_$_UILabel
+@_OBJC_CLASS_$_UIColor
+@_OBJC_CLASS_$_UITextField
+@_OBJC_CLASS_$_NSAttributedString
+@_OBJC_CLASS_$_NSString
+@_OBJC_CLASS_$_UIActivityIndicatorView
+@_OBJC_CLASS_$_UIAlertController
+@_OBJC_CLASS_$_UIAlertAction
+@_OBJC_CLASS_$_NSURL
+@_OBJC_CLASS_$_UIApplication
+@_OBJC_CLASS_$_UIViewController
+@_OBJC_CLASS_$_UIScreen
+@_OBJC_CLASS_$_NSCharacterSet
+@_OBJC_CLASS_$_UIScrollView
+@_OBJC_CLASS_$_NSMutableDictionary
+@_OBJC_CLASS_$_UIImage
+@_OBJC_CLASS_$_UIPanGestureRecognizer
+@_OBJC_CLASS_$_NSMutableURLRequest
+@_OBJC_CLASS_$_NSJSONSerialization
+@_OBJC_CLASS_$_NSDate
+@_OBJC_CLASS_$_NSProcessInfo
+@_OBJC_CLASS_$_NSBundle
+@_OBJC_CLASS_$_NSURLSessionConfiguration
+@_OBJC_CLASS_$_NSURLSession
+@_OBJC_CLASS_$_NSUUID
+@_OBJC_CLASS_$_NSMutableString
+@_OBJC_CLASS_$_NSURLComponents
+@_OBJC_CLASS_$_UIWindowScene
+@_OBJC_METACLASS_$_NSObject
+@__objc_empty_cache
+@_OBJC_CLASS_$_NSObject
+@_OBJC_CLASS_$_UIWindow
+@_OBJC_METACLASS_$_UIWindow
+@_OBJC_METACLASS_$_UIView
+@_OBJC_METACLASS_$_UIViewController
+@_OBJC_METACLASS_$_UIButton
+@___stack_chk_fail
+@_objc_msgSend
+@_strtol
+@_objc_retain
+@_objc_autorelease
+@_objc_retainAutoreleasedReturnValue
+@_objc_release
+@_dispatch_once
+@_CFRelease
+@_SecCertificateCopyData
+@_CC_SHA256
+@_objc_retainAutorelease
+@_SecTrustGetCertificateAtIndex
+@_SecTrustEvaluate
+@_SecTrustGetCertificateCount
+@_objc_alloc_init
+@_dispatch_queue_create
+@_VTSessionSetProperty
+>@_VTPixelRotationSessionCreate
+@_VTPixelTransferSessionCreate
+@_objc_storeStrong
+@_objc_msgSendSuper2
+@_os_unfair_lock_unlock
+@_CVPixelBufferRelease
+@_os_unfair_lock_lock
+@_VTDecompressionSessionInvalidate
+@_CVPixelBufferPoolRelease
+@_CVPixelBufferRetain
+@_VTDecompressionSessionCreate
+@_CFDictionaryCreate
+@_CMVideoFormatDescriptionCreate
+@_CFNumberCreate
+@_CMSampleBufferCreateReady
+@_VTDecompressionSessionDecodeFrame
+@_CMBlockBufferCreateWithMemoryBlock
+@_CVPixelBufferPoolCreatePixelBuffer
+@_CVPixelBufferPoolCreate
+@_dispatch_sync
+@_CVPixelBufferGetWidth
+@_CVPixelBufferGetHeight
+@_objc_autoreleasePoolPush
+@_CVPixelBufferGetPixelFormatType
+@_CVBufferRemoveAttachment
+@_objc_autoreleasePoolPop
+>@_VTPixelRotationSessionRotateImage
+@_VTPixelTransferSessionTransferImage
+@_CVPixelBufferGetBytesPerRowOfPlane
+@_CVPixelBufferGetBaseAddressOfPlane
+@_CVPixelBufferUnlockBaseAddress
+@_memcpy
+@_CVPixelBufferLockBaseAddress
+@_CVBufferSetAttachment
+@_CVBufferGetAttachment
+@_close
+@_dispatch_get_global_queue
+@_dispatch_async
+@_listen
+@_usleep
+@_setsockopt
+@_recv
+@_memmem
+@___error
+@_memmove
+@_accept
+@_sscanf
+@_bind
+@_socket
+@_malloc
+@_strstr
+@_objc_autoreleaseReturnValue
+@_sleep
+@_connect
+@_send
+@_strlen
+@_snprintf
+@_inet_pton
+@_freeifaddrs
+@_strcmp
+@_getifaddrs
+@_objc_enumerationMutation
+@_CGRectGetMaxY
+@_CGRectGetMinY
+@_CGAffineTransformMakeTranslation
+@_objc_alloc
+@_CGAffineTransformMakeScale
+@_objc_getAssociatedObject
+@_objc_setAssociatedObject
+@_notify_post
+@__Block_object_assign
+@_free
+@_sysctlbyname
+@_CCHmac
+@_MSHookFunction
+@_CFNotificationCenterAddObserver
+@_CFNotificationCenterGetDarwinNotifyCenter
+@_MSHookMessageEx
+@_objc_getClass
+@_arc4random
+@__dyld_get_image_name
+@__dyld_image_count
+@_task_get_exception_ports
+@_getpid
+@_bzero
+@_sysctl
+@_CCCrypt
+@_vm_region_64
+_CCCrypt
+_CCHmac
+_CC_SHA256
+_CFDictionaryCreate
+_CFNotificationCenterAddObserver
+_CFNotificationCenterGetDarwinNotifyCenter
+_CFNumberCreate
+_CFRelease
+_CGAffineTransformIdentity
+_CGAffineTransformMakeScale
+_CGAffineTransformMakeTranslation
+_CGPointZero
+_CGRectGetMaxY
+_CGRectGetMinY
+_CMBlockBufferCreateWithMemoryBlock
+_CMSampleBufferCreateReady
+_CMSampleBufferGetImageBuffer
+_CMVideoFormatDescriptionCreate
+_CVBufferGetAttachment
+_CVBufferRemoveAttachment
+_CVBufferSetAttachment
+_CVPixelBufferGetBaseAddressOfPlane
+_CVPixelBufferGetBytesPerRowOfPlane
+_CVPixelBufferGetHeight
+_CVPixelBufferGetPixelFormatType
+_CVPixelBufferGetWidth
+_CVPixelBufferLockBaseAddress
+_CVPixelBufferPoolCreate
+_CVPixelBufferPoolCreatePixelBuffer
+_CVPixelBufferPoolRelease
+_CVPixelBufferRelease
+_CVPixelBufferRetain
+_CVPixelBufferUnlockBaseAddress
+_MSHookFunction
+_MSHookMessageEx
+_NSForegroundColorAttributeName
+_NSURLAuthenticationMethodServerTrust
+_OBJC_CLASS_$_CAGradientLayer
+_OBJC_CLASS_$_NSArray
+_OBJC_CLASS_$_NSAttributedString
+_OBJC_CLASS_$_NSBundle
+_OBJC_CLASS_$_NSCharacterSet
+_OBJC_CLASS_$_NSData
+_OBJC_CLASS_$_NSDate
+_OBJC_CLASS_$_NSDictionary
+_OBJC_CLASS_$_NSJSONSerialization
+_OBJC_CLASS_$_NSLayoutConstraint
+_OBJC_CLASS_$_NSMutableArray
+_OBJC_CLASS_$_NSMutableData
+_OBJC_CLASS_$_NSMutableDictionary
+_OBJC_CLASS_$_NSMutableString
+_OBJC_CLASS_$_NSMutableURLRequest
+_OBJC_CLASS_$_NSNotificationCenter
+_OBJC_CLASS_$_NSNumber
+_OBJC_CLASS_$_NSObject
+_OBJC_CLASS_$_NSProcessInfo
+_OBJC_CLASS_$_NSString
+_OBJC_CLASS_$_NSTimer
+_OBJC_CLASS_$_NSURL
+_OBJC_CLASS_$_NSURLComponents
+_OBJC_CLASS_$_NSURLCredential
+_OBJC_CLASS_$_NSURLSession
+_OBJC_CLASS_$_NSURLSessionConfiguration
+_OBJC_CLASS_$_NSUUID
+_OBJC_CLASS_$_UIActivityIndicatorView
+_OBJC_CLASS_$_UIAlertAction
+_OBJC_CLASS_$_UIAlertController
+_OBJC_CLASS_$_UIApplication
+_OBJC_CLASS_$_UIButton
+_OBJC_CLASS_$_UIColor
+_OBJC_CLASS_$_UIControl
+_OBJC_CLASS_$_UIFont
+_OBJC_CLASS_$_UIImage
+_OBJC_CLASS_$_UILabel
+_OBJC_CLASS_$_UIPanGestureRecognizer
+_OBJC_CLASS_$_UIScreen
+_OBJC_CLASS_$_UIScrollView
+_OBJC_CLASS_$_UIStackView
+_OBJC_CLASS_$_UITextField
+_OBJC_CLASS_$_UIView
+_OBJC_CLASS_$_UIViewController
+_OBJC_CLASS_$_UIWindow
+_OBJC_CLASS_$_UIWindowScene
+_OBJC_METACLASS_$_NSObject
+_OBJC_METACLASS_$_UIButton
+_OBJC_METACLASS_$_UIView
+_OBJC_METACLASS_$_UIViewController
+_OBJC_METACLASS_$_UIWindow
+_SecCertificateCopyData
+_SecTrustEvaluate
+_SecTrustGetCertificateAtIndex
+_SecTrustGetCertificateCount
+_UIFontWeightBlack
+_UIFontWeightBold
+_UIFontWeightSemibold
+_UIKeyboardAnimationDurationUserInfoKey
+_UIKeyboardFrameEndUserInfoKey
+_UIKeyboardWillHideNotification
+_UIKeyboardWillShowNotification
+_VTDecompressionSessionCreate
+_VTDecompressionSessionDecodeFrame
+_VTDecompressionSessionInvalidate
+_VTPixelRotationSessionCreate
+_VTPixelRotationSessionRotateImage
+_VTPixelTransferSessionCreate
+_VTPixelTransferSessionTransferImage
+_VTSessionSetProperty
+__Block_object_assign
+__NSConcreteGlobalBlock
+__NSConcreteStackBlock
+___CFConstantStringClassReference
+___NSArray0__
+___NSDictionary0__
+___error
+___stack_chk_fail
+___stack_chk_guard
+__dispatch_main_q
+__dyld_get_image_name
+__dyld_image_count
+__objc_empty_cache
+_accept
+_arc4random
+_bind
+_bzero
+_close
+_connect
+_dispatch_async
+_dispatch_get_global_queue
+_dispatch_once
+_dispatch_queue_create
+_dispatch_sync
+_free
+_freeifaddrs
+_getifaddrs
+_getpid
+_inet_pton
+_kCFAllocatorDefault
+_kCFAllocatorNull
+_kCFBooleanTrue
+_kCFTypeDictionaryKeyCallBacks
+_kCFTypeDictionaryValueCallBacks
+_kCVImageBufferColorPrimariesKey
+_kCVImageBufferTransferFunctionKey
+_kCVImageBufferYCbCrMatrixKey
+_kCVPixelBufferHeightKey
+_kCVPixelBufferIOSurfacePropertiesKey
+_kCVPixelBufferOpenGLESCompatibilityKey
+_kCVPixelBufferPixelFormatTypeKey
+_kCVPixelBufferWidthKey
+_kVTPixelRotationPropertyKey_Rotation
+_kVTRotation_CW90
+_listen
+_mach_task_self_
+_malloc
+_memcpy
+_memmem
+_memmove
+_notify_post
+_objc_alloc
+_objc_alloc_init
+_objc_autorelease
+_objc_autoreleasePoolPop
+_objc_autoreleasePoolPush
+_objc_autoreleaseReturnValue
+_objc_enumerationMutation
+_objc_getAssociatedObject
+_objc_getClass
+_objc_msgSend
+_objc_msgSendSuper2
+_objc_release
+_objc_retain
+_objc_retainAutorelease
+_objc_retainAutoreleasedReturnValue
+_objc_setAssociatedObject
+_objc_storeStrong
+_os_unfair_lock_lock
+_os_unfair_lock_unlock
+_recv
+_send
+_setsockopt
+_sleep
+_snprintf
+_socket
+_sscanf
+_strcmp
+_strlen
+_strstr
+_strtol
+_sysctl
+_sysctlbyname
+_task_get_exception_ports
+_usleep
+_vm_region_64
+dyld_stub_binder
+radr://5614542
+VCamRecovered.dylib.7c1e8b4d.unsigned
+%UaQ
+HE.+8
+aMYE
+_^wXN-
+O$:y
+.q9xN
+&nUW
+z2"T
+HE+[
+8V^%]p2(
+fdjX
+pSZ3
+x+`*_{
+eviV
+6AT6
+O3b\
+#qYd
+P?mX
+d2tO
+O?5YS
+4E6N4
+JNbb
+E/'&
+JQC}
+mYV&]XL
+Vd9oP
+c/'j'
+=*Q&N
+\{~y
+9G|7e
+FTH*hY"
+f]K-U
+3}3c-
+"Zr~
+YTcyM&)
+Abl,
+NT_SPt|
+-U+J
+^i.D
+K3pV
+H@"0%
+9kP!P
+&.y3
+Eh,f
+Fs$	K
+;-4L
+M )K
+[9f\
+"E<=
+wT;m
+EJ)B
+~4b|3D@
+|5c^
+0k}G
+4O+ 
+Jkg=W[
+;XB4
+{U)!
+	1pX]
+T~O%
+L$I$yb
+s2:q
+E698
+2yfp
+ald?+
+bFW%
+<XCt'
+|O85
+@L,r
++@A\3
+(g91
+Gye:
+).nf^j
+6H+S
+x,YI
+6~k7
+--RU
+xZo?
+%VCamRecovered.dylib.7c1e8b4d.unsigned
+subject.CN

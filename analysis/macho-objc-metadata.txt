@@ -1,0 +1,834 @@
+/mnt/data/IOS-16-USB-4K/package/rootfs/var/jb/Library/MobileSubstrate/DynamicLibraries/VCamRecovered.dylib:
+Contents of (__DATA_CONST,__objc_classlist) section
+00000000000aa390 0xae858
+           isa 0xae830
+    superclass 0x0 _OBJC_CLASS_$_NSObject
+         cache 0x0
+        vtable 0x0
+          data 0xad530 (struct class_ro_t *)
+                    flags 0x90
+            instanceStart 8
+             instanceSize 8
+                 reserved 0x0
+               ivarLayout 0x0
+                     name 0xa32a0 PinnedURLSessionDelegate
+              baseMethods 0xad4b0 (struct method_list_t *)
+		   entsize 24
+		     count 2
+		      name 0xa1361 isCertificateTrusted:
+		     types 0xa34bd B24@0:8^{__SecCertificate=}16
+		       imp 0x534c 
+		      name 0xa1515 URLSession:didReceiveChallenge:completionHandler:
+		     types 0xa340c v40@0:8@16@24@?32
+		       imp 0x5a9c 
+            baseProtocols 0xad450
+                      count 1
+		      list[0] 0xac3c0 (struct protocol_t *)
+			      isa 0x0
+			     name 0xa32b9 NSURLSessionDelegate
+			protocols 0xad3d0
+		  instanceMethods 0x0 (struct method_list_t *)
+		     classMethods 0x0 (struct method_list_t *)
+	  optionalInstanceMethods 0xad3e8
+	     optionalClassMethods 0x0
+	       instanceProperties 0x0
+                    ivars 0x0
+           weakIvarLayout 0x0
+           baseProperties 0xad4e8
+                    entsize 16
+                      count 4
+			     name 0xa14a7 hash
+			attributes 0xa14ac TQ,R
+			     name 0xa14b1 superclass
+			attributes 0xa14bc T#,R
+			     name 0xa14c1 description
+			attributes 0xa14cd T@"NSString",R,C
+			     name 0xa14de debugDescription
+			attributes 0xa14cd T@"NSString",R,C
+Meta Class
+           isa 0x0
+    superclass 0x0 _OBJC_METACLASS_$_NSObject
+         cache 0x0
+        vtable 0x0
+          data 0xad468 (struct class_ro_t *)
+                    flags 0x91 RO_META
+            instanceStart 40
+             instanceSize 40
+                 reserved 0x0
+               ivarLayout 0x0
+                     name 0xa32a0 PinnedURLSessionDelegate
+              baseMethods 0xad0c0 (struct method_list_t *)
+		   entsize 24
+		     count 2
+		      name 0xa12e1 dataFromHexString:
+		     types 0xa333e @24@0:8@16
+		       imp 0x4000 
+		      name 0xa138b initialize
+		     types 0xa3349 v16@0:8
+		       imp 0x4a70 
+            baseProtocols 0xad450
+                      count 1
+		      list[0] 0xac3c0 (struct protocol_t *)
+			      isa 0x0
+			     name 0xa32b9 NSURLSessionDelegate
+			protocols 0xad3d0
+		  instanceMethods 0x0 (struct method_list_t *)
+		     classMethods 0x0 (struct method_list_t *)
+	  optionalInstanceMethods 0xad3e8
+	     optionalClassMethods 0x0
+	       instanceProperties 0x0
+                    ivars 0x0
+           weakIvarLayout 0x0
+           baseProperties 0x0
+00000000000aa398 0xae880
+           isa 0xae8a8
+    superclass 0x0 _OBJC_CLASS_$_NSObject
+         cache 0x0
+        vtable 0x0
+          data 0xad688 (struct class_ro_t *)
+                    flags 0x90
+            instanceStart 8
+             instanceSize 9
+                 reserved 0x0
+               ivarLayout 0x0
+                     name 0xa32d7 VCamManager
+              baseMethods 0xad5e0 (struct method_list_t *)
+		   entsize 24
+		     count 4
+		      name 0xa1579 init
+		     types 0xa3364 @16@0:8
+		       imp 0x8078 
+		      name 0xa158d clearQueue
+		     types 0xa3349 v16@0:8
+		       imp 0x8540 
+		      name 0xa1598 isLive
+		     types 0xa3396 B16@0:8
+		       imp 0x88ac 
+		      name 0xa159f setIsLive:
+		     types 0xa34db v20@0:8B16
+		       imp 0x8a04 
+            baseProtocols 0x0
+                    ivars 0xad648
+                    entsize 32
+                      count 1
+			   offset 0xaea30 34359738376
+			     name 0xa15aa _isLive
+			     type 0xa34e6 B
+			alignment 0
+			     size 1
+           weakIvarLayout 0x0
+           baseProperties 0xad670
+                    entsize 16
+                      count 1
+			     name 0xa15b2 isLive
+			attributes 0xa15b9 TB,N,V_isLive
+Meta Class
+           isa 0x0
+    superclass 0x0 _OBJC_METACLASS_$_NSObject
+         cache 0x0
+        vtable 0x0
+          data 0xad598 (struct class_ro_t *)
+                    flags 0x91 RO_META
+            instanceStart 40
+             instanceSize 40
+                 reserved 0x0
+               ivarLayout 0x0
+                     name 0xa32d7 VCamManager
+              baseMethods 0xad578 (struct method_list_t *)
+		   entsize 24
+		     count 1
+		      name 0xa157e sharedInstance
+		     types 0xa3364 @16@0:8
+		       imp 0x7c8c 
+            baseProtocols 0x0
+                    ivars 0x0
+           weakIvarLayout 0x0
+           baseProperties 0x0
+00000000000aa3a0 0xae8f8
+           isa 0xae920
+    superclass 0x0 _OBJC_CLASS_$_UIWindow
+         cache 0x0
+        vtable 0x0
+          data 0xad738 (struct class_ro_t *)
+                    flags 0x90
+            instanceStart 8
+             instanceSize 8
+                 reserved 0x0
+               ivarLayout 0x0
+                     name 0xa32e4 VCamOverlayWindow
+              baseMethods 0xad718 (struct method_list_t *)
+		   entsize 24
+		     count 1
+		      name 0xa16d6 hitTest:withEvent:
+		     types 0xa34e8 @40@0:8{CGPoint=dd}16@32
+		       imp 0x20edc 
+            baseProtocols 0x0
+                    ivars 0x0
+           weakIvarLayout 0x0
+           baseProperties 0x0
+Meta Class
+           isa 0x0
+    superclass 0x0 _OBJC_METACLASS_$_UIWindow
+         cache 0x0
+        vtable 0x0
+          data 0xad6d0 (struct class_ro_t *)
+                    flags 0x91 RO_META
+            instanceStart 40
+             instanceSize 40
+                 reserved 0x0
+               ivarLayout 0x0
+                     name 0xa32e4 VCamOverlayWindow
+              baseMethods 0x0 (struct method_list_t *)
+            baseProtocols 0x0
+                    ivars 0x0
+           weakIvarLayout 0x0
+           baseProperties 0x0
+00000000000aa3a8 0xae948
+           isa 0xae970
+    superclass 0x0 _OBJC_CLASS_$_UIView
+         cache 0x0
+        vtable 0x0
+          data 0xad950 (struct class_ro_t *)
+                    flags 0x194 RO_HAS_CXX_STRUCTORS
+            instanceStart 8
+             instanceSize 48
+                 reserved 0x0
+               ivarLayout 0xa3307
+                layout map: 0x01 
+                     name 0xa32f6 VCamGradientView
+              baseMethods 0xad7e8 (struct method_list_t *)
+		   entsize 24
+		     count 8
+		      name 0xa1579 init
+		     types 0xa3364 @16@0:8
+		       imp 0x223d8 
+		      name 0xa1735 setGradientColors:
+		     types 0xa341e v24@0:8@16
+		       imp 0x22de8 
+		      name 0xa1701 setStartPoint:
+		     types 0xa3501 v32@0:8{CGPoint=dd}16
+		       imp 0x23c48 
+		      name 0xa1710 setEndPoint:
+		     types 0xa3501 v32@0:8{CGPoint=dd}16
+		       imp 0x23dbc 
+		      name 0xa17bc gradientColors
+		     types 0xa3364 @16@0:8
+		       imp 0x2400c 
+		      name 0xa179d startPoint
+		     types 0xa3517 {CGPoint=dd}16@0:8
+		       imp 0x240f8 
+		      name 0xa17a8 endPoint
+		     types 0xa3517 {CGPoint=dd}16@0:8
+		       imp 0x24254 
+		      name 0xa17cb .cxx_destruct
+		     types 0xa3349 v16@0:8
+		       imp 0x242f4 
+            baseProtocols 0x0
+                    ivars 0xad8b0
+                    entsize 32
+                      count 3
+			   offset 0xaea34 68719476744
+			     name 0xa17d9 _gradientColors
+			     type 0xa352a @"NSArray"
+			alignment 3
+			     size 8
+			   offset 0xaea38 137438953488
+			     name 0xa17e9 _startPoint
+			     type 0xa3535 {CGPoint="x"d"y"d}
+			alignment 3
+			     size 16
+			   offset 0xaea3c 34359738400
+			     name 0xa17f5 _endPoint
+			     type 0xa3535 {CGPoint="x"d"y"d}
+			alignment 3
+			     size 16
+           weakIvarLayout 0x0
+           baseProperties 0xad918
+                    entsize 16
+                      count 3
+			     name 0xa17ff gradientColors
+			attributes 0xa180e T@"NSArray",&,N,V_gradientColors
+			     name 0xa182f startPoint
+			attributes 0xa183a T{CGPoint=dd},N,V_startPoint
+			     name 0xa1857 endPoint
+			attributes 0xa1860 T{CGPoint=dd},N,V_endPoint
+Meta Class
+           isa 0x0
+    superclass 0x0 _OBJC_METACLASS_$_UIView
+         cache 0x0
+        vtable 0x0
+          data 0xad7a0 (struct class_ro_t *)
+                    flags 0x195 RO_META RO_HAS_CXX_STRUCTORS
+            instanceStart 40
+             instanceSize 40
+                 reserved 0x0
+               ivarLayout 0x0
+                     name 0xa32f6 VCamGradientView
+              baseMethods 0xad780 (struct method_list_t *)
+		   entsize 24
+		     count 1
+		      name 0xa17b1 layerClass
+		     types 0xa335c #16@0:8
+		       imp 0x2221c 
+            baseProtocols 0x0
+                    ivars 0x0
+           weakIvarLayout 0x0
+           baseProperties 0x0
+00000000000aa3b0 0xae998
+           isa 0xae9c0
+    superclass 0x0 _OBJC_CLASS_$_UIViewController
+         cache 0x0
+        vtable 0x0
+          data 0xae5b0 (struct class_ro_t *)
+                    flags 0x194 RO_HAS_CXX_STRUCTORS
+            instanceStart 8
+             instanceSize 104
+                 reserved 0x0
+               ivarLayout 0xa3331
+                layout map: 0x1b 
+                     name 0xa3309 VCamPanelController
+              baseMethods 0xadb38 (struct method_list_t *)
+		   entsize 24
+		     count 82
+		      name 0xa2aa7 initWithLoginMode:
+		     types 0xa35f2 @20@0:8B16
+		       imp 0x24490 
+		      name 0xa18af viewDidLoad
+		     types 0xa3349 v16@0:8
+		       imp 0x249ec 
+		      name 0xa1c3a viewDidDisappear:
+		     types 0xa34db v20@0:8B16
+		       imp 0x284c0 
+		      name 0xa18dd vcamKeyboardWillShow:
+		     types 0xa341e v24@0:8@16
+		       imp 0x28768 
+		      name 0xa1915 vcamKeyboardWillHide:
+		     types 0xa341e v24@0:8@16
+		       imp 0x2a4f8 
+		      name 0xa1be7 headerView
+		     types 0xa3364 @16@0:8
+		       imp 0x2abc4 
+		      name 0xa1d2b label:size:weight:color:
+		     types 0xa35fd @48@0:8@16d24d32@40
+		       imp 0x2ba44 
+		      name 0xa1eb7 field:secure:keyboard:
+		     types 0xa3611 @36@0:8@16B24q28
+		       imp 0x2bd78 
+		      name 0xa1f37 pillButton:primary:destructive:
+		     types 0xa3622 @32@0:8@16B24B28
+		       imp 0x2c76c 
+		      name 0xa1c10 buildLoginInStack:
+		     types 0xa341e v24@0:8@16
+		       imp 0x2f00c 
+		      name 0xa2033 statusRowWithUser:enabled:usb:
+		     types 0xa3622 @32@0:8@16B24B28
+		       imp 0x2f9a0 
+		      name 0xa1fb7 statusCard:value:accent:
+		     types 0xa3633 @40@0:8@16@24@32
+		       imp 0x312b0 
+		      name 0xa1c23 buildDashboardInStack:
+		     types 0xa341e v24@0:8@16
+		       imp 0x31d88 
+		      name 0xa2123 refreshModeUI
+		     types 0xa3349 v16@0:8
+		       imp 0x341e0 
+		      name 0xa207a selectWifiMode
+		     types 0xa3349 v16@0:8
+		       imp 0x366bc 
+		      name 0xa2093 selectUSBMode
+		     types 0xa3349 v16@0:8
+		       imp 0x36894 
+		      name 0xa2893 setBusy:
+		     types 0xa34db v20@0:8B16
+		       imp 0x36a64 
+		      name 0xa2874 showMessage:error:
+		     types 0xa3644 v28@0:8@16B24
+		       imp 0x377ac 
+		      name 0xa242f vcamShowAlertTitle:message:
+		     types 0xa33fe v32@0:8@16@24
+		       imp 0x3833c 
+		      name 0xa26c4 vcamOpenURLString:
+		     types 0xa341e v24@0:8@16
+		       imp 0x38a78 
+		      name 0xa2561 showAccountReadyPrompt
+		     types 0xa3349 v16@0:8
+		       imp 0x397c0 
+		      name 0xa229c vcamSheetColorR:g:b:a:
+		     types 0xa3652 @48@0:8d16d24d32d40
+		       imp 0x39984 
+		      name 0xa22b3 vcamSheetLabel:frame:size:weight:color:lines:
+		     types 0xa3666 @88@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24d56d64@72q80
+		       imp 0x39b14 
+		      name 0xa2701 vcamSheetCard:title:value:accent:
+		     types 0xa369f @72@0:8{CGRect={CGPoint=dd}{CGSize=dd}}16@48@56@64
+		       imp 0x3a08c 
+		      name 0xa249e vcamSheetButton:frame:primary:
+		     types 0xa36d2 @60@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24B56
+		       imp 0x3a840 
+		      name 0xa2379 vcamClosePresentedSheet:
+		     types 0xa341e v24@0:8@16
+		       imp 0x3c2dc 
+		      name 0xa24d5 vcamPresentSheetWrap:
+		     types 0xa341e v24@0:8@16
+		       imp 0x3c798 
+		      name 0xa2723 vcamAccountDepositTapped:
+		     types 0xa341e v24@0:8@16
+		       imp 0x3d8e8 
+		      name 0xa273d vcamAccountBuyTapped:
+		     types 0xa341e v24@0:8@16
+		       imp 0x3dce4 
+		      name 0xa2784 vcamQuickDepositTapped:
+		     types 0xa341e v24@0:8@16
+		       imp 0x3e0dc 
+		      name 0xa2819 vcamPlanButtonTapped:
+		     types 0xa341e v24@0:8@16
+		       imp 0x3e380 
+		      name 0xa2412 vcamConfirmPlanButtonTapped:
+		     types 0xa341e v24@0:8@16
+		       imp 0x3ec10 
+		      name 0xa2478 vcamSheetField:frame:secure:keyboard:
+		     types 0xa3702 @68@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24B56q60
+		       imp 0x3fa3c 
+		      name 0xa1f83 createAccountTapped
+		     types 0xa3349 v16@0:8
+		       imp 0x40158 
+		      name 0xa24bd vcamCreateSubmitTapped:
+		     types 0xa341e v24@0:8@16
+		       imp 0x40d28 
+		      name 0xa1f97 recoveryTapped
+		     types 0xa3349 v16@0:8
+		       imp 0x429b0 
+		      name 0xa25ad vcamOpenForgotUsernamePanel:
+		     types 0xa341e v24@0:8@16
+		       imp 0x43138 
+		      name 0xa25ca vcamOpenResetPasswordPanel:
+		     types 0xa341e v24@0:8@16
+		       imp 0x43460 
+		      name 0xa25e6 forgotUsernameTapped
+		     types 0xa3349 v16@0:8
+		       imp 0x437c0 
+		      name 0xa260f vcamForgotUsernameSubmitTapped:
+		     types 0xa341e v24@0:8@16
+		       imp 0x43ef0 
+		      name 0xa25fb resetPasswordTapped
+		     types 0xa3349 v16@0:8
+		       imp 0x45af8 
+		      name 0xa265c vcamResetPasswordSubmitTapped:
+		     types 0xa341e v24@0:8@16
+		       imp 0x46654 
+		      name 0xa23b2 vcamCreateDepositInvoice:
+		     types 0xa3735 v24@0:8d16
+		       imp 0x483cc 
+		      name 0xa20e4 walletTapped
+		     types 0xa3349 v16@0:8
+		       imp 0x49034 
+		      name 0xa2392 depositTapped
+		     types 0xa3349 v16@0:8
+		       imp 0x4c468 
+		      name 0xa27ac vcamCustomDepositTapped:
+		     types 0xa341e v24@0:8@16
+		       imp 0x4ddcc 
+		      name 0xa23a0 buyPlanTapped
+		     types 0xa3349 v16@0:8
+		       imp 0x4e1a0 
+		      name 0xa23f7 confirmPurchasePlan:title:
+		     types 0xa33fe v32@0:8@16@24
+		       imp 0x52864 
+		      name 0xa1f77 loginTapped
+		     types 0xa3349 v16@0:8
+		       imp 0x53970 
+		      name 0xa2953 saveStateWithEnabled:close:
+		     types 0xa3740 v24@0:8B16B20
+		       imp 0x56734 
+		      name 0xa20d1 toggleStreamTapped
+		     types 0xa3349 v16@0:8
+		       imp 0x58d7c 
+		      name 0xa20f1 saveIPTapped
+		     types 0xa3349 v16@0:8
+		       imp 0x58f40 
+		      name 0xa20fe logoutTapped
+		     types 0xa3349 v16@0:8
+		       imp 0x59114 
+		      name 0xa1959 closePanel
+		     types 0xa3349 v16@0:8
+		       imp 0x59448 
+		      name 0xa2a90 textFieldShouldReturn:
+		     types 0xa3351 B24@0:8@16
+		       imp 0x59610 
+		      name 0xa1c06 loginMode
+		     types 0xa3396 B16@0:8
+		       imp 0x59de0 
+		      name 0xa2aba setLoginMode:
+		     types 0xa34db v20@0:8B16
+		       imp 0x59f94 
+		      name 0xa202b usbMode
+		     types 0xa3396 B16@0:8
+		       imp 0x5a0a0 
+		      name 0xa201f setUsbMode:
+		     types 0xa34db v20@0:8B16
+		       imp 0x5a1f0 
+		      name 0xa19fe card
+		     types 0xa3364 @16@0:8
+		       imp 0x5a3ac 
+		      name 0xa19f5 setCard:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5a4b0 
+		      name 0xa1ef2 usernameField
+		     types 0xa3364 @16@0:8
+		       imp 0x5a5e0 
+		      name 0xa1ece setUsernameField:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5a768 
+		      name 0xa1f00 passwordField
+		     types 0xa3364 @16@0:8
+		       imp 0x5a950 
+		      name 0xa1ee0 setPasswordField:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5aa88 
+		      name 0xa20c9 ipField
+		     types 0xa3364 @16@0:8
+		       imp 0x5abcc 
+		      name 0xa20bd setIpField:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5ad08 
+		      name 0xa20b1 sourceLabel
+		     types 0xa3364 @16@0:8
+		       imp 0x5aed8 
+		      name 0xa20a1 setSourceLabel:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5b030 
+		      name 0xa2119 hintLabel
+		     types 0xa3364 @16@0:8
+		       imp 0x5b214 
+		      name 0xa210b setHintLabel:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5b300 
+		      name 0xa1f1f messageLabel
+		     types 0xa3364 @16@0:8
+		       imp 0x5b4d8 
+		      name 0xa1f0e setMessageLabel:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5b624 
+		      name 0xa1f69 primaryButton
+		     types 0xa3364 @16@0:8
+		       imp 0x5b79c 
+		      name 0xa1f57 setPrimaryButton:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5b8e4 
+		      name 0xa206f wifiButton
+		     types 0xa3364 @16@0:8
+		       imp 0x5ba78 
+		      name 0xa2052 setWifiButton:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5bb88 
+		      name 0xa2089 usbButton
+		     types 0xa3364 @16@0:8
+		       imp 0x5bc78 
+		      name 0xa2061 setUsbButton:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5bd68 
+		      name 0xa2159 spinner
+		     types 0xa3364 @16@0:8
+		       imp 0x5be80 
+		      name 0xa2181 setSpinner:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5bf6c 
+		      name 0xa17cb .cxx_destruct
+		     types 0xa3349 v16@0:8
+		       imp 0x5c0d4 
+            baseProtocols 0xadad8
+                      count 1
+		      list[0] 0xac430 (struct protocol_t *)
+			      isa 0x0
+			     name 0xa331d UITextFieldDelegate
+			protocols 0xad998
+		  instanceMethods 0x0 (struct method_list_t *)
+		     classMethods 0x0 (struct method_list_t *)
+	  optionalInstanceMethods 0xad9b0
+	     optionalClassMethods 0x0
+	       instanceProperties 0x0
+                    ivars 0xae2f0
+                    entsize 32
+                      count 13
+			   offset 0xaea40 38654705672
+			     name 0xa2ac8 _loginMode
+			     type 0xa34e6 B
+			alignment 0
+			     size 1
+			   offset 0xaea44 68719476745
+			     name 0xa2ad3 _usbMode
+			     type 0xa34e6 B
+			alignment 0
+			     size 1
+			   offset 0xaea48 103079215120
+			     name 0xa2adc _card
+			     type 0xa374e @"UIView"
+			alignment 3
+			     size 8
+			   offset 0xaea4c 137438953496
+			     name 0xa2ae2 _usernameField
+			     type 0xa3758 @"UITextField"
+			alignment 3
+			     size 8
+			   offset 0xaea50 171798691872
+			     name 0xa2af1 _passwordField
+			     type 0xa3758 @"UITextField"
+			alignment 3
+			     size 8
+			   offset 0xaea54 206158430248
+			     name 0xa2b00 _ipField
+			     type 0xa3758 @"UITextField"
+			alignment 3
+			     size 8
+			   offset 0xaea58 240518168624
+			     name 0xa2b09 _sourceLabel
+			     type 0xa3767 @"UILabel"
+			alignment 3
+			     size 8
+			   offset 0xaea5c 274877907000
+			     name 0xa2b16 _hintLabel
+			     type 0xa3767 @"UILabel"
+			alignment 3
+			     size 8
+			   offset 0xaea60 309237645376
+			     name 0xa2b21 _messageLabel
+			     type 0xa3767 @"UILabel"
+			alignment 3
+			     size 8
+			   offset 0xaea64 343597383752
+			     name 0xa2b2f _primaryButton
+			     type 0xa3772 @"UIButton"
+			alignment 3
+			     size 8
+			   offset 0xaea68 377957122128
+			     name 0xa2b3e _wifiButton
+			     type 0xa3772 @"UIButton"
+			alignment 3
+			     size 8
+			   offset 0xaea6c 412316860504
+			     name 0xa2b4a _usbButton
+			     type 0xa3772 @"UIButton"
+			alignment 3
+			     size 8
+			   offset 0xaea70 96
+			     name 0xa2b55 _spinner
+			     type 0xa377e @"UIActivityIndicatorView"
+			alignment 3
+			     size 8
+           weakIvarLayout 0x0
+           baseProperties 0xae498
+                    entsize 16
+                      count 17
+			     name 0xa2b5e loginMode
+			attributes 0xa2b68 TB,N,V_loginMode
+			     name 0xa2b79 usbMode
+			attributes 0xa2b81 TB,N,V_usbMode
+			     name 0xa2b90 card
+			attributes 0xa2b95 T@"UIView",&,N,V_card
+			     name 0xa2bab usernameField
+			attributes 0xa2bb9 T@"UITextField",&,N,V_usernameField
+			     name 0xa2bdd passwordField
+			attributes 0xa2beb T@"UITextField",&,N,V_passwordField
+			     name 0xa2c0f ipField
+			attributes 0xa2c17 T@"UITextField",&,N,V_ipField
+			     name 0xa2c35 sourceLabel
+			attributes 0xa2c41 T@"UILabel",&,N,V_sourceLabel
+			     name 0xa2c5f hintLabel
+			attributes 0xa2c69 T@"UILabel",&,N,V_hintLabel
+			     name 0xa2c85 messageLabel
+			attributes 0xa2c92 T@"UILabel",&,N,V_messageLabel
+			     name 0xa2cb1 primaryButton
+			attributes 0xa2cbf T@"UIButton",&,N,V_primaryButton
+			     name 0xa2ce0 wifiButton
+			attributes 0xa2ceb T@"UIButton",&,N,V_wifiButton
+			     name 0xa2d09 usbButton
+			attributes 0xa2d13 T@"UIButton",&,N,V_usbButton
+			     name 0xa2d30 spinner
+			attributes 0xa2d38 T@"UIActivityIndicatorView",&,N,V_spinner
+			     name 0xa14a7 hash
+			attributes 0xa14ac TQ,R
+			     name 0xa14b1 superclass
+			attributes 0xa14bc T#,R
+			     name 0xa14c1 description
+			attributes 0xa14cd T@"NSString",R,C
+			     name 0xa14de debugDescription
+			attributes 0xa14cd T@"NSString",R,C
+Meta Class
+           isa 0x0
+    superclass 0x0 _OBJC_METACLASS_$_UIViewController
+         cache 0x0
+        vtable 0x0
+          data 0xadaf0 (struct class_ro_t *)
+                    flags 0x195 RO_META RO_HAS_CXX_STRUCTORS
+            instanceStart 40
+             instanceSize 40
+                 reserved 0x0
+               ivarLayout 0x0
+                     name 0xa3309 VCamPanelController
+              baseMethods 0x0 (struct method_list_t *)
+            baseProtocols 0xadad8
+                      count 1
+		      list[0] 0xac430 (struct protocol_t *)
+			      isa 0x0
+			     name 0xa331d UITextFieldDelegate
+			protocols 0xad998
+		  instanceMethods 0x0 (struct method_list_t *)
+		     classMethods 0x0 (struct method_list_t *)
+	  optionalInstanceMethods 0xad9b0
+	     optionalClassMethods 0x0
+	       instanceProperties 0x0
+                    ivars 0x0
+           weakIvarLayout 0x0
+           baseProperties 0x0
+00000000000aa3b8 0xae8d0
+           isa 0xae9e8
+    superclass 0x0 _OBJC_CLASS_$_UIButton
+         cache 0x0
+        vtable 0x0
+          data 0xae7e8 (struct class_ro_t *)
+                    flags 0x90
+            instanceStart 8
+             instanceSize 8
+                 reserved 0x0
+               ivarLayout 0x0
+                     name 0xa3333 VCamButton
+              baseMethods 0xae780 (struct method_list_t *)
+		   entsize 24
+		     count 4
+		      name 0xa2db1 pan:
+		     types 0xa341e v24@0:8@16
+		       imp 0x5cf0c 
+		      name 0xa2da8 showMenu
+		     types 0xa3349 v16@0:8
+		       imp 0x5d1d0 
+		      name 0xa2e1e showLogin
+		     types 0xa3349 v16@0:8
+		       imp 0x600a0 
+		      name 0xa28a3 updateColor
+		     types 0xa3349 v16@0:8
+		       imp 0x60a4c 
+            baseProtocols 0x0
+                    ivars 0x0
+           weakIvarLayout 0x0
+           baseProperties 0x0
+Meta Class
+           isa 0x0
+    superclass 0x0 _OBJC_METACLASS_$_UIButton
+         cache 0x0
+        vtable 0x0
+          data 0xae738 (struct class_ro_t *)
+                    flags 0x91 RO_META
+            instanceStart 40
+             instanceSize 40
+                 reserved 0x0
+               ivarLayout 0x0
+                     name 0xa3333 VCamButton
+              baseMethods 0xae5f8 (struct method_list_t *)
+		   entsize 24
+		     count 13
+		      name 0xa289c shared
+		     types 0xa3364 @16@0:8
+		       imp 0x5c314 
+		      name 0xa2f44 jsonRequestPath:method:auth:payload:completion:
+		     types 0xa3799 v52@0:8@16@24B32@36@?44
+		       imp 0x61fd4 
+		      name 0xa28bf portalLoginWithUsername:password:completion:
+		     types 0xa340c v40@0:8@16@24@?32
+		       imp 0x67fc0 
+		      name 0xa2578 createAccountWithUsername:email:password:completion:
+		     types 0xa37b1 v48@0:8@16@24@32@?40
+		       imp 0x6c3cc 
+		      name 0xa262f forgotUsernameWithEmail:password:completion:
+		     types 0xa340c v40@0:8@16@24@?32
+		       imp 0x6dab0 
+		      name 0xa267b resetPasswordForUsername:email:newPassword:completion:
+		     types 0xa37b1 v48@0:8@16@24@32@?40
+		       imp 0x6f494 
+		      name 0xa2753 fetchProfileWithCompletion:
+		     types 0xa37c6 v24@0:8@?16
+		       imp 0x724ac 
+		      name 0xa285a fetchPlansWithCompletion:
+		     types 0xa37c6 v24@0:8@?16
+		       imp 0x730e4 
+		      name 0xa26d7 depositAmount:completion:
+		     types 0xa37d2 v32@0:8@16@?24
+		       imp 0x73cb8 
+		      name 0xa244b purchasePlan:completion:
+		     types 0xa37d2 v32@0:8@16@?24
+		       imp 0x756f0 
+		      name 0xa26f1 prettyPlanName:
+		     types 0xa333e @24@0:8@16
+		       imp 0x76f00 
+		      name 0xa1645 sendHeartbeat
+		     types 0xa3349 v16@0:8
+		       imp 0x77538 
+		      name 0xa28ec loginWithUsername:password:completion:
+		     types 0xa340c v40@0:8@16@24@?32
+		       imp 0x7ef58 
+            baseProtocols 0x0
+                    ivars 0x0
+           weakIvarLayout 0x0
+           baseProperties 0x0
+Contents of (__DATA,__objc_classrefs) section
+00000000000acf30 0x0 _OBJC_CLASS_$_NSMutableData
+00000000000acf38 0x0 _OBJC_CLASS_$_NSData
+00000000000acf40 0x0 _OBJC_CLASS_$_NSURLCredential
+00000000000acf48 0xae880
+00000000000acf50 0x0 _OBJC_CLASS_$_NSNumber
+00000000000acf58 0x0 _OBJC_CLASS_$_NSDictionary
+00000000000acf60 0x0 _OBJC_CLASS_$_NSTimer
+00000000000acf68 0xae8d0
+00000000000acf70 0x0 _OBJC_CLASS_$_CAGradientLayer
+00000000000acf78 0x0 _OBJC_CLASS_$_NSArray
+00000000000acf80 0x0 _OBJC_CLASS_$_NSMutableArray
+00000000000acf88 0x0 _OBJC_CLASS_$_NSNotificationCenter
+00000000000acf90 0x0 _OBJC_CLASS_$_UIControl
+00000000000acf98 0x0 _OBJC_CLASS_$_NSLayoutConstraint
+00000000000acfa0 0x0 _OBJC_CLASS_$_UIView
+00000000000acfa8 0xae948
+00000000000acfb0 0x0 _OBJC_CLASS_$_UIStackView
+00000000000acfb8 0x0 _OBJC_CLASS_$_UIButton
+00000000000acfc0 0x0 _OBJC_CLASS_$_UIFont
+00000000000acfc8 0x0 _OBJC_CLASS_$_UILabel
+00000000000acfd0 0x0 _OBJC_CLASS_$_UIColor
+00000000000acfd8 0x0 _OBJC_CLASS_$_UITextField
+00000000000acfe0 0x0 _OBJC_CLASS_$_NSAttributedString
+00000000000acfe8 0x0 _OBJC_CLASS_$_NSString
+00000000000acff0 0x0 _OBJC_CLASS_$_UIActivityIndicatorView
+00000000000acff8 0x0 _OBJC_CLASS_$_UIAlertController
+00000000000ad000 0x0 _OBJC_CLASS_$_UIAlertAction
+00000000000ad008 0x0 _OBJC_CLASS_$_NSURL
+00000000000ad010 0x0 _OBJC_CLASS_$_UIApplication
+00000000000ad018 0x0 _OBJC_CLASS_$_UIViewController
+00000000000ad020 0x0 _OBJC_CLASS_$_UIScreen
+00000000000ad028 0x0 _OBJC_CLASS_$_NSCharacterSet
+00000000000ad030 0x0 _OBJC_CLASS_$_UIScrollView
+00000000000ad038 0x0 _OBJC_CLASS_$_NSMutableDictionary
+00000000000ad040 0x0 _OBJC_CLASS_$_UIImage
+00000000000ad048 0x0 _OBJC_CLASS_$_UIPanGestureRecognizer
+00000000000ad050 0xae998
+00000000000ad058 0x0 _OBJC_CLASS_$_NSMutableURLRequest
+00000000000ad060 0x0 _OBJC_CLASS_$_NSJSONSerialization
+00000000000ad068 0x0 _OBJC_CLASS_$_NSDate
+00000000000ad070 0x0 _OBJC_CLASS_$_NSProcessInfo
+00000000000ad078 0x0 _OBJC_CLASS_$_NSBundle
+00000000000ad080 0x0 _OBJC_CLASS_$_NSURLSessionConfiguration
+00000000000ad088 0x0 _OBJC_CLASS_$_NSURLSession
+00000000000ad090 0xae858
+00000000000ad098 0x0 _OBJC_CLASS_$_NSUUID
+00000000000ad0a0 0x0 _OBJC_CLASS_$_NSMutableString
+00000000000ad0a8 0x0 _OBJC_CLASS_$_NSURLComponents
+00000000000ad0b0 0xae8f8
+00000000000ad0b8 0x0 _OBJC_CLASS_$_UIWindowScene
+Contents of (__DATA,__objc_superrefs) section
+00000000000aea10 0xae880
+00000000000aea18 0xae8f8
+00000000000aea20 0xae948
+00000000000aea28 0xae998
+Contents of (__DATA_CONST,__objc_protolist) section
+00000000000aa378 0xac360
+00000000000aa380 0xac3c0
+00000000000aa388 0xac430
+Contents of (__DATA_CONST,__objc_imageinfo) section
+  version 0
+    flags 0x40 OBJC_IMAGE_HAS_CATEGORY_CLASS_PROPERTIES
