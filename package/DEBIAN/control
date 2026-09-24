@@ -1,0 +1,10 @@
+Package: com.if-she.cydia.vcam
+Name: VCam for Entertainment
+Description: Lawful OBS, streaming, QA, and camera testing tool. Fraud and impersonation are prohibited.
+Maintainer: MULUKEN
+Author: MEKLIT
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 3.1.6
+Installed-Size: 856

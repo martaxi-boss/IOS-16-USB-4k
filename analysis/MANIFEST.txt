@@ -1,0 +1,28 @@
+Original file: IOS 16 USB 4K (2).deb
+Extracted repository folder: IOS-16-USB-4K
+
+[DEBIAN metadata]
+Package: com.if-she.cydia.vcam
+Name: VCam for Entertainment
+Description: Lawful OBS, streaming, QA, and camera testing tool. Fraud and impersonation are prohibited.
+Maintainer: MULUKEN
+Author: MEKLIT
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 3.1.6
+Installed-Size: 856
+
+[Root filesystem files]
+var/jb/Library/MobileSubstrate/DynamicLibraries/VCamRecovered.dylib
+var/jb/Library/MobileSubstrate/DynamicLibraries/VCamRecovered.plist
+var/jb/var/mobile/Library/Preferences/logo.png
+
+[Control files]
+control
+postinst
+
+[Raw ar members]
+control.tar.gz
+data.tar.lzma
+debian-binary

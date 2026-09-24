@@ -1,0 +1,13 @@
+drwxr-xr-x 0/root            0 2026-05-06 21:22 .
+drwxr-xr-x 0/root            0 2026-05-06 21:22 var
+drwxr-xr-x 0/root            0 2026-05-06 21:22 var/jb
+drwxr-xr-x 0/root            0 2026-05-06 21:22 var/jb/Library
+drwxr-xr-x 0/root            0 2026-05-06 21:22 var/jb/Library/MobileSubstrate
+drwxr-xr-x 0/root            0 2026-05-06 21:22 var/jb/Library/MobileSubstrate/DynamicLibraries
+-rwxr-xr-x 0/root       742832 2026-05-06 21:22 var/jb/Library/MobileSubstrate/DynamicLibraries/VCamRecovered.dylib
+-rw-r--r-- 0/root          172 2026-05-06 21:22 var/jb/Library/MobileSubstrate/DynamicLibraries/VCamRecovered.plist
+drwxr-xr-x 0/root            0 2026-05-06 21:21 var/jb/var
+drwxr-xr-x 0/root            0 2026-05-06 21:21 var/jb/var/mobile
+drwxr-xr-x 0/root            0 2026-05-06 21:21 var/jb/var/mobile/Library
+drwxr-xr-x 0/root            0 2026-05-06 21:21 var/jb/var/mobile/Library/Preferences
+-rw-r--r-- 0/root        92181 2026-05-05 07:48 var/jb/var/mobile/Library/Preferences/logo.png

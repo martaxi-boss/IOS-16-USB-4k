@@ -1,0 +1,3 @@
+/mnt/data/IOS-16-USB-4K/package/rootfs/var/jb/Library/MobileSubstrate/DynamicLibraries/VCamRecovered.dylib:
+
+Exports trie:

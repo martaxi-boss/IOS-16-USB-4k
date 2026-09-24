@@ -1,0 +1,3 @@
+/mnt/data/IOS 16 USB 4K (2).deb:                                                                            Debian binary package (format 2.0), with control.tar.gz , data compression lzma
+/mnt/data/IOS-16-USB-4K/package/rootfs/var/jb/Library/MobileSubstrate/DynamicLibraries/VCamRecovered.dylib: Mach-O 64-bit arm64 dynamically linked shared library, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|NO_REEXPORTED_DYLIBS>
+/mnt/data/IOS-16-USB-4K/package/rootfs/var/jb/Library/MobileSubstrate/DynamicLibraries/VCamRecovered.plist: Apple binary property list

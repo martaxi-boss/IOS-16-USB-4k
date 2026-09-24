@@ -1,0 +1,29 @@
+#!/bin/sh
+set +e
+
+echo "[VCam] Running safe post-install refresh..."
+
+mkdir -p /var/mobile/Library/Preferences 2>/dev/null || true
+mkdir -p /var/jb/var/mobile/Library/Preferences 2>/dev/null || true
+{
+    echo "$(date '+%Y-%m-%d %H:%M:%S') VCAM postinst ran"
+    echo "whoami=$(id -u 2>/dev/null || true) rootless_prefix=$([ -d /var/jb ] && echo yes || echo no)"
+    echo "TweakInject:"
+    ls -l /var/jb/usr/lib/TweakInject/VCam* 2>/dev/null || true
+    echo "DynamicLibraries:"
+    ls -ld /var/jb/Library/MobileSubstrate/DynamicLibraries 2>/dev/null || true
+    ls -l /var/jb/Library/MobileSubstrate/DynamicLibraries/VCam* 2>/dev/null || true
+} >> /var/mobile/Library/Preferences/vcam_install.log 2>/dev/null || true
+{
+    echo "$(date '+%Y-%m-%d %H:%M:%S') VCAM postinst ran"
+    echo "whoami=$(id -u 2>/dev/null || true) rootless_prefix=$([ -d /var/jb ] && echo yes || echo no)"
+    echo "TweakInject:"
+    ls -l /var/jb/usr/lib/TweakInject/VCam* 2>/dev/null || true
+    echo "DynamicLibraries:"
+    ls -ld /var/jb/Library/MobileSubstrate/DynamicLibraries 2>/dev/null || true
+    ls -l /var/jb/Library/MobileSubstrate/DynamicLibraries/VCam* 2>/dev/null || true
+} >> /var/jb/var/mobile/Library/Preferences/vcam_install.log 2>/dev/null || true
+
+# Do not respring automatically here. Some iOS 16 package managers can be
+# interrupted if SpringBoard is killed before dpkg finishes recording the install.
+exit 0
